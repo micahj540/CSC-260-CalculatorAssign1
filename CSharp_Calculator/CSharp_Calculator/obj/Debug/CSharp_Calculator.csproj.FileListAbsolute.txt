@@ -1,0 +1,30 @@
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.frmCalculator.resources
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.Properties.Resources.resources
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.GenerateResource.Cache
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+c:\users\jsjenkins\documents\visual studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
+C:\Users\jsjenkins\Documents\Visual Studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2015\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csprojAssemblyReference.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.frmCalculator.resources
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.Properties.Resources.resources
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.GenerateResource.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.frmCalculator.resources
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.Properties.Resources.resources
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.GenerateResource.cache
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
+C:\Users\micah\source\repos\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.AssemblyReference.cache
